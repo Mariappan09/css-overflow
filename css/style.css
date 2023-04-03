@@ -1,0 +1,43 @@
+
+.row1{
+	background-color:red;
+	width:100px;
+	height:100px;
+    overflow:visible;
+}
+.row2{
+	background-color:red;
+	width:100px;
+	height:100px;
+    overflow:hidden;
+}
+.row3{
+	background-color:red;
+	width:100px;
+	height:100px;
+    overflow:scroll;
+}
+.row4{
+	background-color:red;
+	width:100px;
+	height:100px;
+    overflow:auto;
+}
+.row5{
+	background-color:red;
+	width:100px;
+	height:100px;
+    overflow:clip;
+}
+.row6{
+	background-color:red;
+	width:200px;
+	height:auto;
+	overflow-x:scroll;
+}
+.row7{
+	background-color:red;
+	width:100px;
+	height:100px;
+	overflow-y:scroll;
+}
